@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Alexander
 
+I'm a software engineer, teacher, gamer, occassional speaker, and father. I am a polyglot and love to learn new languages. I've shipped code in C#, Go, Clojure, Javascript/Node, Scala, Objective-C, and even VB6 and VB.NET (don't tell anyone). I love working at all levels of code. I've worked mainly on the web, but have done my fair share of desktop and mobile applications as well. There's always more to learn and ways to sharpen my skills. Don't ever be afraid to step out of your comfort zone and learn new things, it's always rough at first but the rewards are amazing.
+
 <!--
 **bit-cmdr/bit-cmdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
