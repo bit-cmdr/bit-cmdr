@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Alexander
 
 <!--
 **bit-cmdr/bit-cmdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: alexander.kahoun@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I used to volunteer at the Academy of Natural Sciences in Philadelphia as a Museum Guide in the paleontology exhibit
+- 📜 Checkout my website at https://leftofnull.com
