@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Node, React, Typescript, and occassionally Go
+- 🌱 I’m currently learning more about Go
+- 💬 Ask me about anything! I love engaging about tech and it helps me learn it better
+- 📫 How to reach me: alexander.kahoun@outlook.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I used to volunteer at the Academy of Natural Sciences in Philadelphia as a Museum Guide in the paleontology exhibit
