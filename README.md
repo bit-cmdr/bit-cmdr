@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/alexkahoun](https://linkedin.com/in/alexkahoun)
 
-- ⚡ Fun fact **I used to volunteer at the Academy of Natural Sciences in Philadelphia when I was in High School as a Museum Guide in the Paleontology Exhibit**
+- ⚡ Fun fact **I used to volunteer at the Academy of Natural Sciences in Philadelphia as a Museum Guide in the Paleontology Exhibit when I was in High School**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
